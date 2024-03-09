@@ -1,4 +1,4 @@
-package com.example.infotional_03.ThreeMainPages
+package com.example.infotional_03.threeMainPages
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
